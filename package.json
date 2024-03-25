@@ -1,0 +1,19 @@
+{
+  "name": "@carstenrntng/github-pkg-sample",
+  "version": "0.1.0",
+  "description": "Sample for publishing NPM packages to Github Packages. See [gh-pkg].",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carstenrntng/github-pkg-sample.git"
+  },
+  "author": "Carsten Rösnick-Neugebauer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carstenrntng/github-pkg-sample/issues"
+  },
+  "homepage": "https://github.com/carstenrntng/github-pkg-sample#readme"
+}
