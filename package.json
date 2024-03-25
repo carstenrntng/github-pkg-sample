@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/carstenrntng/github-pkg-sample.git"
   },
+  "publishConfig": {
+    "@carstenrntng:registry": "https://npm.pkg.github.com"
+  },
   "author": "Carsten Rösnick-Neugebauer",
   "license": "MIT",
   "bugs": {
