@@ -1,6 +1,6 @@
 {
-  "name": "@carstenrntng/github-pkg-sample",
-  "version": "0.1.0",
+  "name": "@avp-dist/github-pkg-sample",
+  "version": "0.2.0",
   "description": "Sample for publishing NPM packages to Github Packages. See [gh-pkg].",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/carstenrntng/github-pkg-sample.git"
   },
   "publishConfig": {
-    "@carstenrntng:registry": "https://npm.pkg.github.com"
+    "@avp-dist:registry": "https://npm.pkg.github.com"
   },
   "author": "Carsten Rösnick-Neugebauer",
   "license": "MIT",
